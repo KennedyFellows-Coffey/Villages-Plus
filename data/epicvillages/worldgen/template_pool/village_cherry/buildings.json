@@ -5,7 +5,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/fixed_house",
+        "location": "epicvillages:village_cherry/houses/residence/small_cherry_house1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
