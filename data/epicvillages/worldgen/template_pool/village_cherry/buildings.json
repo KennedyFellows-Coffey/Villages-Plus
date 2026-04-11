@@ -30,6 +30,24 @@
       }
     },
     {
+      "weight": 3,
+      "element": {
+        "location": "epicvillages:village_cherry/houses/residence/small_cherry_house4",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "epicvillages:village_cherry/houses/residence/small_cherry_house5",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
       "weight": 1,
       "element": {
         "element_type": "minecraft:empty_pool_element"
