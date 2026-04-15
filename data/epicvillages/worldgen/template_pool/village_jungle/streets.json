@@ -1,0 +1,50 @@
+{
+	"name": "epicvillages:village_jungle/streets",
+	"fallback": "minecraft:empty",
+	"elements": [{
+		"weight": 5,
+		"element": {
+			"element_type": "minecraft:empty_pool_element"
+		}
+	},{
+		"weight": 5,
+		"element": {
+			"element_type": "minecraft:single_pool_element",
+			"location": "epicvillages:village_jungle/streets/street_striaght",
+			"processors": "minecraft:empty",
+			"projection": "terrain_matching"
+		}
+	},{
+		"weight": 4,
+		"element": {
+			"element_type": "minecraft:single_pool_element",
+			"location": "epicvillages:village_jungle/streets/street_curve",
+			"processors": "minecraft:empty",
+			"projection": "terrain_matching"
+		}
+	},{
+		"weight": 2,
+		"element": {
+			"element_type": "minecraft:single_pool_element",
+			"location": "epicvillages:village_jungle/streets/street_t",
+			"processors": "minecraft:empty",
+			"projection": "terrain_matching"
+		}
+	},{
+		"weight": 2,
+		"element": {
+			"element_type": "minecraft:single_pool_element",
+			"location": "epicvillages:village_jungle/streets/street_cross",
+			"processors": "minecraft:empty",
+			"projection": "terrain_matching"
+		}
+	},{
+		"weight": 1,
+		"element": {
+			"element_type": "minecraft:single_pool_element",
+			"location": "epicvillages:village_jungle/streets/street_rare",
+			"processors": "minecraft:empty",
+			"projection": "terrain_matching"
+		}
+	}]
+}
