@@ -1,13 +1,33 @@
 {
 	"name": "epicvillages:village_jungle/town_centers",
 	"fallback": "minecraft:empty",
-	"elements": [{
+	"elements": [
+			{
 		"weight": 1,
 		"element": {
-			"location": "epicvillages:village_jungle/town_centers/torii_gate",
+			"location": "epicvillages:village_jungle/town_centers/jungle_well",
 			"processors": "minecraft:empty",
 			"projection": "rigid",
 			"element_type": "minecraft:single_pool_element"
 		}
-	}]
+	},
+			{
+		"weight": 1,
+		"element": {
+			"location": "epicvillages:village_jungle/town_centers/jungle_town_center1",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},
+			{
+		"weight": 1,
+		"element": {
+			"location": "epicvillages:village_jungle/town_centers/jungle_town_center2",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}
+]
 }
