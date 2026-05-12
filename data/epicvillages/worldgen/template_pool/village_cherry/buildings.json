@@ -302,7 +302,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/simple_cherry",
+        "location": "epicvillages:village_cherry/houses/residence/fisher_cherry1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
