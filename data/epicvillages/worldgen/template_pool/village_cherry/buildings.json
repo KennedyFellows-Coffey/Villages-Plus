@@ -3,7 +3,7 @@
   "fallback": "minecraft:empty",
   "elements": [
     {
-      "weight": 3,
+      "weight": 10,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/small_cherry_house1",
         "processors": "minecraft:empty",
@@ -12,7 +12,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 10,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/small_cherry_house2",
         "processors": "minecraft:empty",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 10,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/small_cherry_house3",
         "processors": "minecraft:empty",
@@ -30,7 +30,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 10,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/small_cherry_house4",
         "processors": "minecraft:empty",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 10,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/small_cherry_house5",
         "processors": "minecraft:empty",
@@ -48,7 +48,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 9,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/medium_cherry_house1",
         "processors": "minecraft:empty",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 9,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/medium_cherry_house2",
         "processors": "minecraft:empty",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 9,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/medium_cherry_house3",
         "processors": "minecraft:empty",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 5,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/armorer_cherry1",
         "processors": "minecraft:empty",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 5,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/butcher_cherry1",
         "processors": "minecraft:empty",
@@ -93,7 +93,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 5,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/butcher_cherry2",
         "processors": "minecraft:empty",
@@ -102,7 +102,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 5,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/cartographer_cherry1",
         "processors": "minecraft:empty",
@@ -111,7 +111,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 5,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/church_cherry1",
         "processors": "minecraft:empty",
@@ -120,7 +120,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 5,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/church_cherry2",
         "processors": "minecraft:empty",
@@ -129,7 +129,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 5,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/fletcher_cherry1",
         "processors": "minecraft:empty",
@@ -138,7 +138,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 5,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/library_cherry1",
         "processors": "minecraft:empty",
@@ -147,7 +147,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 5,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/library_cherry2",
         "processors": "minecraft:empty",
@@ -156,7 +156,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 5,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/mason_cherry1",
         "processors": "minecraft:empty",
@@ -165,7 +165,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 5,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/shepherd_cherry",
         "processors": "minecraft:empty",
@@ -174,7 +174,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 5,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/toolsmith_cherry",
         "processors": "minecraft:empty",
@@ -183,7 +183,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 5,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/weaponsmith_cherry",
         "processors": "minecraft:empty",
@@ -210,16 +210,16 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 7,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/farm_cherry",
+        "location": "epicvillages:village_cherry/houses/residence/farm_cherry2",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
     },
     {
-      "weight": 3,
+      "weight": 7,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/farm_cherry1",
         "processors": "minecraft:empty",
@@ -228,7 +228,7 @@
       }
     },
         {
-      "weight": 3,
+      "weight": 8,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/large_cherry_house1",
         "processors": "minecraft:empty",
@@ -237,7 +237,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 8,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/large_cherry_house2",
         "processors": "minecraft:empty",
@@ -246,7 +246,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 8,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/large_cherry_house3",
         "processors": "minecraft:empty",
@@ -273,7 +273,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 4,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/pen_cherry1",
         "processors": "minecraft:empty",
@@ -282,7 +282,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 4,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/pen_cherry2",
         "processors": "minecraft:empty",
@@ -291,7 +291,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 4,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/pen_cherry3",
         "processors": "minecraft:empty",
@@ -300,9 +300,27 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 5,
       "element": {
         "location": "epicvillages:village_cherry/houses/residence/fisher_cherry1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "epicvillages:village_cherry/houses/residence/flowers_cherry",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_cherry/houses/residence/leatherer_cherry",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
