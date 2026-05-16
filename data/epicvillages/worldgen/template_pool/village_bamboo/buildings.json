@@ -3,7 +3,7 @@
   "fallback": "minecraft:empty",
   "elements": [
     {
-      "weight": 3,
+      "weight": 10,
       "element": {
         "location": "epicvillages:village_bamboo/houses/residence/small_bamboo_house1",
         "processors": "minecraft:empty",
@@ -12,7 +12,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 10,
       "element": {
         "location": "epicvillages:village_bamboo/houses/residence/small_bamboo_house2",
         "processors": "minecraft:empty",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 10,
       "element": {
         "location": "epicvillages:village_bamboo/houses/residence/small_bamboo_house3",
         "processors": "minecraft:empty",
@@ -30,7 +30,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 10,
       "element": {
         "location": "epicvillages:village_bamboo/houses/residence/small_bamboo_house4",
         "processors": "minecraft:empty",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 10,
       "element": {
         "location": "epicvillages:village_bamboo/houses/residence/small_bamboo_house5",
         "processors": "minecraft:empty",
@@ -48,7 +48,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 9,
       "element": {
         "location": "epicvillages:village_bamboo/houses/residence/medium_bamboo_house1",
         "processors": "minecraft:empty",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 9,
       "element": {
         "location": "epicvillages:village_bamboo/houses/residence/medium_bamboo_house2",
         "processors": "minecraft:empty",
@@ -66,9 +66,261 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 9,
       "element": {
         "location": "epicvillages:village_bamboo/houses/residence/medium_bamboo_house3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/armorer_bamboo1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/butcher_bamboo1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/butcher_bamboo2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/cartographer_bamboo1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/church_bamboo1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/church_bamboo2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/fletcher_bamboo1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/library_bamboo1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/library_bamboo2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/mason_bamboo1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/shepherd_bamboo",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/toolsmith_bamboo",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/weaponsmith_bamboo",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/barn_bamboo1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/barn_bamboo2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/farm_bamboo2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/farm_bamboo1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+        {
+      "weight": 8,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/large_bamboo_house1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/large_bamboo_house2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/large_bamboo_house3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/meeting_spot_bamboo1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/meeting_spot_bamboo2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/pen_bamboo1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/pen_bamboo2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/pen_bamboo3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/fisher_bamboo1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/flowers_bamboo",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/leatherer_bamboo",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"

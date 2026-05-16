@@ -3,7 +3,7 @@
   "fallback": "minecraft:empty",
   "elements": [
     {
-      "weight": 3,
+      "weight": 10,
       "element": {
         "location": "epicvillages:village_mushroom/houses/residence/small_mushroom_house1",
         "processors": "minecraft:empty",
@@ -12,7 +12,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 10,
       "element": {
         "location": "epicvillages:village_mushroom/houses/residence/small_mushroom_house2",
         "processors": "minecraft:empty",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 10,
       "element": {
         "location": "epicvillages:village_mushroom/houses/residence/small_mushroom_house3",
         "processors": "minecraft:empty",
@@ -30,7 +30,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 10,
       "element": {
         "location": "epicvillages:village_mushroom/houses/residence/small_mushroom_house4",
         "processors": "minecraft:empty",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 10,
       "element": {
         "location": "epicvillages:village_mushroom/houses/residence/small_mushroom_house5",
         "processors": "minecraft:empty",
@@ -48,7 +48,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 9,
       "element": {
         "location": "epicvillages:village_mushroom/houses/residence/medium_mushroom_house1",
         "processors": "minecraft:empty",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 9,
       "element": {
         "location": "epicvillages:village_mushroom/houses/residence/medium_mushroom_house2",
         "processors": "minecraft:empty",
@@ -66,9 +66,261 @@
       }
     },
     {
-      "weight": 3,
+      "weight": 9,
       "element": {
         "location": "epicvillages:village_mushroom/houses/residence/medium_mushroom_house3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/armorer_mushroom1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/butcher_mushroom1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/butcher_mushroom2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/cartographer_mushroom1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/church_mushroom1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/church_mushroom2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/fletcher_mushroom1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/library_mushroom1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/library_mushroom2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/mason_mushroom1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/shepherd_mushroom",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/toolsmith_mushroom",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/weaponsmith_mushroom",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/barn_mushroom1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/barn_mushroom2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/farm_mushroom2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/farm_mushroom1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+        {
+      "weight": 8,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/large_mushroom_house1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/large_mushroom_house2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/large_mushroom_house3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/meeting_spot_mushroom1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/meeting_spot_mushroom2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/pen_mushroom1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/pen_mushroom2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/pen_mushroom3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/fisher_mushroom1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/flowers_mushroom",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "epicvillages:village_mushroom/houses/residence/leatherer_mushroom",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"

@@ -1,5 +1,5 @@
 {
-	"name": "epicvillages:village_cherry/streets",
+	"name": "epicvillages:village_dark/streets",
 	"fallback": "minecraft:empty",
 	"elements": [{
 		"weight": 5,
@@ -10,7 +10,7 @@
 		"weight": 5,
 		"element": {
 			"element_type": "minecraft:single_pool_element",
-			"location": "epicvillages:village_cherry/streets/street_straight1",
+			"location": "epicvillages:village_dark/streets/street_straight1",
 			"processors": "minecraft:empty",
 			"projection": "terrain_matching"
 		}
@@ -18,7 +18,7 @@
 		"weight": 5,
 		"element": {
 			"element_type": "minecraft:single_pool_element",
-			"location": "epicvillages:village_cherry/streets/street_straight2",
+			"location": "epicvillages:village_dark/streets/street_straight2",
 			"processors": "minecraft:empty",
 			"projection": "terrain_matching"
 		}
@@ -26,7 +26,7 @@
 				"weight": 5,
 		"element": {
 			"element_type": "minecraft:single_pool_element",
-			"location": "epicvillages:village_cherry/streets/street_straight3",
+			"location": "epicvillages:village_dark/streets/street_straight3",
 			"processors": "minecraft:empty",
 			"projection": "terrain_matching"
 		}
@@ -34,7 +34,7 @@
 		"weight": 5,
 		"element": {
 			"element_type": "minecraft:single_pool_element",
-			"location": "epicvillages:village_cherry/streets/street_straight4",
+			"location": "epicvillages:village_dark/streets/street_straight4",
 			"processors": "minecraft:empty",
 			"projection": "terrain_matching"
 		}
@@ -42,7 +42,7 @@
 				"weight": 5,
 		"element": {
 			"element_type": "minecraft:single_pool_element",
-			"location": "epicvillages:village_cherry/streets/street_straight5",
+			"location": "epicvillages:village_dark/streets/street_straight5",
 			"processors": "minecraft:empty",
 			"projection": "terrain_matching"
 		}
@@ -50,7 +50,7 @@
 		"weight": 5,
 		"element": {
 			"element_type": "minecraft:single_pool_element",
-			"location": "epicvillages:village_cherry/streets/street_straight6",
+			"location": "epicvillages:village_dark/streets/street_straight6",
 			"processors": "minecraft:empty",
 			"projection": "terrain_matching"
 		}
@@ -58,7 +58,7 @@
 		"weight": 4,
 		"element": {
 			"element_type": "minecraft:single_pool_element",
-			"location": "epicvillages:village_cherry/streets/street_corner1",
+			"location": "epicvillages:village_dark/streets/street_corner1",
 			"processors": "minecraft:empty",
 			"projection": "terrain_matching"
 		}
@@ -66,7 +66,7 @@
 				"weight": 4,
 		"element": {
 			"element_type": "minecraft:single_pool_element",
-			"location": "epicvillages:village_cherry/streets/street_corner2",
+			"location": "epicvillages:village_dark/streets/street_corner2",
 			"processors": "minecraft:empty",
 			"projection": "terrain_matching"
 		}
@@ -74,7 +74,7 @@
 				"weight": 4,
 		"element": {
 			"element_type": "minecraft:single_pool_element",
-			"location": "epicvillages:village_cherry/streets/street_corner3",
+			"location": "epicvillages:village_dark/streets/street_corner3",
 			"processors": "minecraft:empty",
 			"projection": "terrain_matching"
 		}
@@ -82,7 +82,7 @@
 		"weight": 2,
 		"element": {
 			"element_type": "minecraft:single_pool_element",
-			"location": "epicvillages:village_cherry/streets/street_turn1",
+			"location": "epicvillages:village_dark/streets/street_turn1",
 			"processors": "minecraft:empty",
 			"projection": "terrain_matching"
 		}
@@ -90,7 +90,7 @@
 		"weight": 2,
 		"element": {
 			"element_type": "minecraft:single_pool_element",
-			"location": "epicvillages:village_cherry/streets/street_crossroad1",
+			"location": "epicvillages:village_dark/streets/street_crossroad1",
 			"processors": "minecraft:empty",
 			"projection": "terrain_matching"
 		}
@@ -98,7 +98,7 @@
 				"weight": 2,
 		"element": {
 			"element_type": "minecraft:single_pool_element",
-			"location": "epicvillages:village_cherry/streets/street_crossroad2",
+			"location": "epicvillages:village_dark/streets/street_crossroad2",
 			"processors": "minecraft:empty",
 			"projection": "terrain_matching"
 		}
@@ -106,7 +106,7 @@
 				"weight": 2,
 		"element": {
 			"element_type": "minecraft:single_pool_element",
-			"location": "epicvillages:village_cherry/streets/street_crossroad3",
+			"location": "epicvillages:village_dark/streets/street_crossroad3",
 			"processors": "minecraft:empty",
 			"projection": "terrain_matching"
 		}
@@ -114,7 +114,7 @@
 				"weight": 2,
 		"element": {
 			"element_type": "minecraft:single_pool_element",
-			"location": "epicvillages:village_cherry/streets/street_crossroad4",
+			"location": "epicvillages:village_dark/streets/street_crossroad4",
 			"processors": "minecraft:empty",
 			"projection": "terrain_matching"
 		}
@@ -122,7 +122,7 @@
 				"weight": 2,
 		"element": {
 			"element_type": "minecraft:single_pool_element",
-			"location": "epicvillages:village_cherry/streets/street_crossroad5",
+			"location": "epicvillages:village_dark/streets/street_crossroad5",
 			"processors": "minecraft:empty",
 			"projection": "terrain_matching"
 		}
@@ -130,7 +130,7 @@
 				"weight": 2,
 		"element": {
 			"element_type": "minecraft:single_pool_element",
-			"location": "epicvillages:village_cherry/streets/street_crossroad6",
+			"location": "epicvillages:village_dark/streets/street_crossroad6",
 			"processors": "minecraft:empty",
 			"projection": "terrain_matching"
 		}

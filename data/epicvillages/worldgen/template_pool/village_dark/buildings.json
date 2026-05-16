@@ -1,11 +1,11 @@
 {
-  "name": "epicvillages:village_cherry/buildings",
+  "name": "epicvillages:village_dark/buildings",
   "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 10,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/small_cherry_house1",
+        "location": "epicvillages:village_dark/houses/residence/small_dark_house1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -14,7 +14,7 @@
     {
       "weight": 10,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/small_cherry_house2",
+        "location": "epicvillages:village_dark/houses/residence/small_dark_house2",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -23,7 +23,7 @@
     {
       "weight": 10,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/small_cherry_house3",
+        "location": "epicvillages:village_dark/houses/residence/small_dark_house3",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -32,7 +32,7 @@
     {
       "weight": 10,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/small_cherry_house4",
+        "location": "epicvillages:village_dark/houses/residence/small_dark_house4",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -41,7 +41,7 @@
     {
       "weight": 10,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/small_cherry_house5",
+        "location": "epicvillages:village_dark/houses/residence/small_dark_house5",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -50,7 +50,7 @@
     {
       "weight": 9,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/medium_cherry_house1",
+        "location": "epicvillages:village_dark/houses/residence/medium_dark_house1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -59,7 +59,7 @@
     {
       "weight": 9,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/medium_cherry_house2",
+        "location": "epicvillages:village_dark/houses/residence/medium_dark_house2",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -68,7 +68,7 @@
     {
       "weight": 9,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/medium_cherry_house3",
+        "location": "epicvillages:village_dark/houses/residence/medium_dark_house3",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -77,7 +77,7 @@
     {
       "weight": 5,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/armorer_cherry1",
+        "location": "epicvillages:village_dark/houses/residence/armorer_dark1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -86,7 +86,7 @@
     {
       "weight": 5,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/butcher_cherry1",
+        "location": "epicvillages:village_dark/houses/residence/butcher_dark1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -95,7 +95,7 @@
     {
       "weight": 5,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/butcher_cherry2",
+        "location": "epicvillages:village_dark/houses/residence/butcher_dark2",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -104,7 +104,7 @@
     {
       "weight": 5,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/cartographer_cherry1",
+        "location": "epicvillages:village_dark/houses/residence/cartographer_dark1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -113,7 +113,7 @@
     {
       "weight": 5,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/church_cherry1",
+        "location": "epicvillages:village_dark/houses/residence/church_dark1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -122,7 +122,7 @@
     {
       "weight": 5,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/church_cherry2",
+        "location": "epicvillages:village_dark/houses/residence/church_dark2",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -131,7 +131,7 @@
     {
       "weight": 5,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/fletcher_cherry1",
+        "location": "epicvillages:village_dark/houses/residence/fletcher_dark1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -140,7 +140,7 @@
     {
       "weight": 5,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/library_cherry1",
+        "location": "epicvillages:village_dark/houses/residence/library_dark1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -149,7 +149,7 @@
     {
       "weight": 5,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/library_cherry2",
+        "location": "epicvillages:village_dark/houses/residence/library_dark2",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -158,7 +158,7 @@
     {
       "weight": 5,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/mason_cherry1",
+        "location": "epicvillages:village_dark/houses/residence/mason_dark1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -167,7 +167,7 @@
     {
       "weight": 5,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/shepherd_cherry",
+        "location": "epicvillages:village_dark/houses/residence/shepherd_dark",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -176,7 +176,7 @@
     {
       "weight": 5,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/toolsmith_cherry",
+        "location": "epicvillages:village_dark/houses/residence/toolsmith_dark",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -185,7 +185,7 @@
     {
       "weight": 5,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/weaponsmith_cherry",
+        "location": "epicvillages:village_dark/houses/residence/weaponsmith_dark",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -194,7 +194,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/barn_cherry1",
+        "location": "epicvillages:village_dark/houses/residence/barn_dark1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -203,7 +203,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/barn_cherry2",
+        "location": "epicvillages:village_dark/houses/residence/barn_dark2",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -212,7 +212,7 @@
     {
       "weight": 7,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/farm_cherry2",
+        "location": "epicvillages:village_dark/houses/residence/farm_dark2",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -221,7 +221,7 @@
     {
       "weight": 7,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/farm_cherry1",
+        "location": "epicvillages:village_dark/houses/residence/farm_dark1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -230,7 +230,7 @@
         {
       "weight": 8,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/large_cherry_house1",
+        "location": "epicvillages:village_dark/houses/residence/large_dark_house1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -239,7 +239,7 @@
     {
       "weight": 8,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/large_cherry_house2",
+        "location": "epicvillages:village_dark/houses/residence/large_dark_house2",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -248,7 +248,7 @@
     {
       "weight": 8,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/large_cherry_house3",
+        "location": "epicvillages:village_dark/houses/residence/large_dark_house3",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -257,7 +257,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/meeting_spot_cherry1",
+        "location": "epicvillages:village_dark/houses/residence/meeting_spot_dark1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -266,7 +266,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/meeting_spot_cherry2",
+        "location": "epicvillages:village_dark/houses/residence/meeting_spot_dark2",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -275,7 +275,7 @@
     {
       "weight": 4,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/pen_cherry1",
+        "location": "epicvillages:village_dark/houses/residence/pen_dark1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -284,7 +284,7 @@
     {
       "weight": 4,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/pen_cherry2",
+        "location": "epicvillages:village_dark/houses/residence/pen_dark2",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -293,7 +293,7 @@
     {
       "weight": 4,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/pen_cherry3",
+        "location": "epicvillages:village_dark/houses/residence/pen_dark3",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -302,7 +302,7 @@
     {
       "weight": 5,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/fisher_cherry1",
+        "location": "epicvillages:village_dark/houses/residence/fisher_dark1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -311,7 +311,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/flowers_cherry",
+        "location": "epicvillages:village_dark/houses/residence/flowers_dark",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -320,7 +320,7 @@
     {
       "weight": 5,
       "element": {
-        "location": "epicvillages:village_cherry/houses/residence/leatherer_cherry",
+        "location": "epicvillages:village_dark/houses/residence/leatherer_dark",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"

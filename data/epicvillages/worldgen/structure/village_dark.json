@@ -1,9 +1,9 @@
 {
-	"biomes": "#epicvillages:has_structure/cherry_village",
+	"biomes": "#epicvillages:has_structure/dark_village",
 	"adapt_noise": false,
 	"spawn_overrides": {},
 	"type": "minecraft:jigsaw",
-	"start_pool": "epicvillages:village_cherry/town_centers",
+	"start_pool": "epicvillages:village_dark/town_centers",
 	"size": 7,
 	"step": "surface_structures",
 	"start_height": {

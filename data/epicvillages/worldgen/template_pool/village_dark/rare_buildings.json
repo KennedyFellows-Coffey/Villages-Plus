@@ -1,10 +1,10 @@
 {
-	"name": "epicvillages:village_cherry/rare_buildings",
+	"name": "epicvillages:village_dark/rare_buildings",
 	"fallback": "minecraft:empty",
 	"elements": [{
 		"weight": 1,
 		"element": {
-			"location": "epicvillages:village_cherry/rares/buildings/rare_temple1",
+			"location": "epicvillages:village_dark/rares/buildings/rare_temple1",
 			"processors": "minecraft:empty",
 			"projection": "rigid",
 			"element_type": "minecraft:single_pool_element"
@@ -12,7 +12,7 @@
 	},{
 		"weight": 5,
 		"element": {
-			"location": "epicvillages:village_cherry/rares/buildings/rare_temple2",
+			"location": "epicvillages:village_dark/rares/buildings/rare_temple2",
 			"processors": "minecraft:empty",
 			"projection": "rigid",
 			"element_type": "minecraft:single_pool_element"
